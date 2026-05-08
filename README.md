@@ -6,11 +6,11 @@
 
 <br>
 
-<a href="PASTE_YOUR_LINKEDIN_LINK_HERE">
-  <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+<a href="https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin]">
 </a>
 
-<a href="PASTE_YOUR_PORTFOLIO_LINK_HERE">
+<a href="https://savan30-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=vercel">
 </a>
 
