@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="mailto:PASTE_YOUR_EMAIL_HERE">
+<a href="savanmpatel1406@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
 </a>
 
