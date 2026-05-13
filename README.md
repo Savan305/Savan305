@@ -13,19 +13,19 @@ Building intelligent, scalable, and real-world AI applications that solve meanin
 <br><br>
 
 <a href="https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Savan305">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:savanmpatel2106@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://savan30-portfolio.netlify.app/">
-  <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
 </a>
 
 </div>
@@ -106,7 +106,7 @@ LangChain • FAISS • Groq API • Streamlit
 
 <td width="50%">
 
-## 🎓 Student Prediction system
+## 🎓 Student Performance Predictor
 
 Predicts student academic performance using machine learning algorithms and data visualization.
 
@@ -131,18 +131,13 @@ FastAPI • Python • HTML • CSS • JavaScript
 
 ---
 
-# 📫 Contact Me
+# 🎯 What I'm Working On
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app |
-| 🐙 GitHub | https://github.com/Savan305 |
-| 📧 Email | savanmpatel2106@gmail.com |
-| 🌐 Portfolio | https://savan30-portfolio.netlify.app/ |
-
-</div>
+- 🚀 Building AI applications with RAG & LLMs
+- 🧠 Exploring AI Agents & Multi-Agent Systems
+- ⚡ Learning advanced backend development with FastAPI
+- 📚 Improving DSA & System Design skills
+- 🌍 Contributing to Open Source Projects
 
 ---
 
