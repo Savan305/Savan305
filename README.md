@@ -106,7 +106,7 @@ LangChain • FAISS • Groq API • Streamlit
 
 <td width="50%">
 
-## 🎓 Student Performance Predictor
+## 🎓 Student Prediction System
 
 Predicts student academic performance using machine learning algorithms and data visualization.
 
