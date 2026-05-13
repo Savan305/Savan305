@@ -2,18 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=34&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Savan+Patel;Python+Developer+%7C+AI%2FML+Enthusiast;Building+Real+World+AI+Applications;Machine+Learning+%7C+RAG+%7C+NLP+%7C+GenAI" />
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/Savan305">
-    <img src="https://img.shields.io/github/followers/Savan305?label=Followers&style=for-the-badge&color=22D3EE"/>
-  </a>
-
-  <a href="https://github.com/Savan305">
-    <img src="https://komarev.com/ghpvc/?username=Savan305&style=for-the-badge&color=0e75b6"/>
-  </a>
-</p>
-
 </div>
 
 ---
@@ -39,7 +27,7 @@
 - TensorFlow
 - Scikit-learn
 
-📚 I’m continuously learning advanced AI concepts, scalable RAG architectures, and modern full-stack development.
+📚 Continuously improving my skills in AI, backend development, and scalable systems.
 
 💼 Open to internships, collaborations, freelance projects, and entry-level AI/ML opportunities.
 
@@ -141,26 +129,6 @@ Full-stack healthcare management application with authentication, patient record
 [![Savan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Savan305&theme=tokyo-night)](https://github.com/Savan305)
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Savan305&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-- Building AI-powered applications
-- Learning advanced RAG architectures
-- Exploring LLM-based systems
-- Improving backend development skills
-- Contributing to open-source projects
 
 ---
 
