@@ -12,7 +12,7 @@ Building intelligent, scalable, and real-world AI applications that solve meanin
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/savan-patel-777aa3323/">
+<a href="https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -24,7 +24,7 @@ Building intelligent, scalable, and real-world AI applications that solve meanin
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://savan30-portfolio.netlify.app/">
   <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
 </a>
 
@@ -137,10 +137,10 @@ FastAPI • Python • HTML • CSS • JavaScript
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | https://linkedin.com/in/savan-patel-777aa3323 |
+| 💼 LinkedIn | https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app |
 | 🐙 GitHub | https://github.com/Savan305 |
 | 📧 Email | savanmpatel2106@example.com |
-| 🌐 Portfolio | Add Your Portfolio Link |
+| 🌐 Portfolio | https://savan30-portfolio.netlify.app/ |
 
 </div>
 
