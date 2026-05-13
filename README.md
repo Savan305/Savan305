@@ -20,7 +20,7 @@ Building intelligent, scalable, and real-world AI applications that solve meanin
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="mailto:savanmpatel2106@example.com">
+<a href="mailto:savanmpatel2106@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
@@ -106,7 +106,7 @@ LangChain • FAISS • Groq API • Streamlit
 
 <td width="50%">
 
-## 🎓 Student Performance Predictor
+## 🎓 Student Prediction system
 
 Predicts student academic performance using machine learning algorithms and data visualization.
 
@@ -139,7 +139,7 @@ FastAPI • Python • HTML • CSS • JavaScript
 |----------|------|
 | 💼 LinkedIn | https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app |
 | 🐙 GitHub | https://github.com/Savan305 |
-| 📧 Email | savanmpatel2106@example.com |
+| 📧 Email | savanmpatel2106@gmail.com |
 | 🌐 Portfolio | https://savan30-portfolio.netlify.app/ |
 
 </div>
