@@ -136,9 +136,7 @@ Frontend → FastAPI REST APIs → Business Logic Layer → MySQL Database
 - End-to-End Project Ownership
 - Real-World Business Use Case
 
-🌐 **Live Demo:** YOUR_DEPLOYMENT_URL
 
-📂 **Repository:** YOUR_GITHUB_REPOSITORY_URL
 
 ---
 
