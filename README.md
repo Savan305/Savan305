@@ -1,192 +1,120 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:38bdf8&text=Savan%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60"/>
+</p>
+
 <div align="center">
 
-# 👋 Hi, I'm Savan Patel
+# 👋 Hey, I'm Savan Patel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Python+Developer;FastAPI+Backend+Developer;Generative+AI+Enthusiast;Building+Real-World+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Generative+AI+Developer;FastAPI+Backend+Developer;Building+AI+Projects+That+Solve+Real+Problems"/>
 
 <br>
 
-<p>
-<a href="https://github.com/Savan305">
-<img src="https://img.shields.io/github/followers/Savan305?label=Followers&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/savan-patel-777aa3323/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Savan305&style=for-the-badge"/>
-
-</p>
-
-<a href="https://www.linkedin.com/in/savan-patel-777aa3323/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Savan305">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://savan30-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student
+🎓 Final Year Computer Engineering Student
 
-🧠 Passionate about:
+💡 Passionate about building AI-powered applications that combine Machine Learning, Generative AI, and scalable backend systems.
 
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Generative AI
-- RAG Systems
-- Backend Development
+🔭 Currently working on:
+- RAG Applications
+- LLM Integrations
+- FastAPI Projects
+- AI Automation Tools
 
-💡 Currently Building:
+🌱 Currently learning:
+- AI Agents
+- Multi-Agent Systems
+- Advanced FastAPI
+- System Design
 
-- AI-Powered Applications
-- Retrieval-Augmented Generation Systems
-- FastAPI Backends
-- Production-Ready ML Projects
-
-🎯 Career Goal:
-
-To become a Machine Learning Engineer creating scalable AI products that solve real-world problems.
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,postgresql,docker,git,linux,vscode,html,css,js"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/>
-
-</div>
+🎯 Looking for:
+- AI/ML Internships
+- Python Developer Roles
+- Open Source Opportunities
 
 ---
 
-# 💼 Featured Projects
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,postgresql,docker,git,linux,vscode,html,css,js" />
+</p>
+
+---
+
+## 💼 Featured Projects
 
 ### 📄 PDF RAG Chatbot
-AI-powered chatbot that answers questions from uploaded PDFs using LangChain, FAISS, and Groq LLMs.
-
-**Tech Stack:** LangChain • FAISS • Streamlit • Groq API
-
----
+Built an intelligent document assistant capable of answering questions from PDFs using Retrieval-Augmented Generation.
 
 ### 🌾 Crop Recommendation System
-Predicts the best crop using soil nutrients and environmental conditions.
-
-**Tech Stack:** Python • Scikit-Learn • Streamlit
-
----
+Machine Learning application that recommends the most suitable crop using soil and environmental data.
 
 ### 🎓 Student Performance Prediction
-Machine Learning project for predicting student academic performance.
-
-**Tech Stack:** Python • Flask • Scikit-Learn
-
----
+Predictive analytics project for forecasting student academic outcomes.
 
 ### 🏥 Patient Management System
-Full-stack healthcare management platform with authentication and patient records.
-
-**Tech Stack:** FastAPI • MySQL • JavaScript
+Full-stack healthcare application with authentication and patient record management.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Savan305&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savan305&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Savan305&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savan305&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Savan305&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savan305&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Savan305&theme=tokyonight&row=1&column=7"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savan305&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 🎯 2026 Goals
 
-<div align="center">
+☑ Build 10+ Production-Ready Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savan305&theme=tokyo-night"/>
+☑ Contribute to Open Source
 
-</div>
+☑ Secure an AI/ML Internship
 
----
+☑ Master FastAPI & LangChain
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Savan305/Savan305/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-✅ Building RAG Applications
-
-✅ Learning AI Agents
-
-✅ Mastering FastAPI
-
-✅ Open Source Contributions
-
-✅ AI/ML Internship Preparation
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: savanmpatel2106@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/savan-patel-777aa3323/
-
-🌐 Portfolio:
-https://savan30-portfolio.netlify.app/
+☑ Reach 500+ GitHub Contributions
 
 ---
 
 <div align="center">
 
-### 🚀 Turning Data Into Intelligence
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Keep+Learning;Keep+Building;Keep+Growing" />
+### "Transforming Ideas Into Intelligent Solutions"
 
 </div>
