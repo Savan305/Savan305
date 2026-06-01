@@ -1,152 +1,146 @@
 <div align="center">
 
-# 👋 Hi, I'm Savan Patel
+# Savan Patel
 
-### Python Developer | AI/ML Engineer
+### AI/ML Engineer | Python Developer | FastAPI Enthusiast
 
-Building intelligent, scalable, and real-world AI applications that solve meaningful problems and create impact.
+Building intelligent applications using Machine Learning, Generative AI, and modern backend technologies.
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Machine+Learning;RAG+Systems;Generative+AI;LangChain+Developer;FastAPI+%7C+Python+Developer" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/savan-patel-777aa3323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Savan305">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:savanmpatel2106@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://savan30-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
-</a>
+[Portfolio](https://savan30-portfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/savan-patel-777aa3323/) • [GitHub](https://github.com/Savan305)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
 
-🎓 Computer Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
+🎓 Computer Engineering Student
 
-🚀 Building real-world AI applications using:
+💡 Passionate about Artificial Intelligence, Machine Learning, NLP, and Backend Development.
+
+🚀 Currently building:
+- AI-powered applications
+- Retrieval-Augmented Generation (RAG) systems
+- FastAPI backend projects
+- Machine Learning solutions
+
+📚 Currently Learning:
+- LLM Engineering
+- AI Agents
+- Advanced FastAPI
+- System Design
+
+🎯 Goal:
+To build scalable AI products that solve real-world problems and create measurable impact.
+
+---
+
+## Tech Stack
+
+### Languages
 - Python
-- FastAPI
-- LangChain
-- Streamlit
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+### AI / Machine Learning
+- Scikit-Learn
 - TensorFlow
-- Scikit-learn
-
-🧠 Interested in:
-- Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
 - NLP
+
+### Generative AI
+- LangChain
+- FAISS
+- Groq API
 - RAG Systems
-- Generative AI
-- Backend Development
+- Prompt Engineering
 
-💼 Open to internships, collaborations, freelance projects, and AI/ML opportunities.
+### Backend
+- FastAPI
+- Flask
+- REST APIs
 
----
+### Database
+- MySQL
+- PostgreSQL
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,flask,mysql,postgresql,git,docker,vscode,html,css,js,linux" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-0D1117?style=for-the-badge&logo=semanticweb&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-
-</div>
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
+### Crop Recommendation System
+Machine Learning application that predicts the most suitable crop based on soil nutrients and environmental conditions.
 
-<td width="50%">
-
-## 🌾 Crop Recommendation System
-
-Machine Learning application that predicts the best crop using soil nutrients and climate conditions.
-
-### ⚒️ Tech Stack
-Python • Scikit-learn • Pandas • Streamlit
-
-</td>
-
-<td width="50%">
-
-## 📄 PDF RAG Chatbot
-
-AI-powered chatbot using LangChain, FAISS, and Groq API for intelligent document question answering.
-
-### ⚒️ Tech Stack
-LangChain • FAISS • Groq API • Streamlit
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎓 Student Prediction System
-
-Predicts student academic performance using machine learning algorithms and data visualization.
-
-### ⚒️ Tech Stack
-Python • Flask • Scikit-learn • Matplotlib
-
-</td>
-
-<td width="50%">
-
-## 🏥 Patient Management System
-
-Full-stack healthcare management application with authentication and patient records.
-
-### ⚒️ Tech Stack
-FastAPI • Python • HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-</table>
+**Tech:** Python, Scikit-Learn, Pandas, Streamlit
 
 ---
 
-# 🎯 What I'm Working On
+### PDF RAG Chatbot
+Conversational AI chatbot that answers questions from uploaded PDFs using LangChain, FAISS, and Groq LLMs.
 
-- 🚀 Building AI applications with RAG & LLMs
-- 🧠 Exploring AI Agents & Multi-Agent Systems
-- ⚡ Learning advanced backend development with FastAPI
-- 📚 Improving DSA & System Design skills
-- 🌍 Contributing to Open Source Projects
+**Tech:** LangChain, FAISS, Groq API, Streamlit
+
+---
+
+### Student Performance Prediction
+Machine Learning project that predicts academic performance using historical student data.
+
+**Tech:** Python, Flask, Scikit-Learn, Matplotlib
+
+---
+
+### Patient Management System
+Full-stack healthcare management system with authentication and patient record management.
+
+**Tech:** FastAPI, Python, HTML, CSS, JavaScript
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savan305&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Savan305&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Savan305&theme=github-dark-blue)
+
+---
+
+## Current Focus
+
+- Building production-ready AI applications
+- Exploring Multi-Agent AI Systems
+- Strengthening Data Structures & Algorithms
+- Contributing to Open Source
+- Preparing for AI/ML Internships
+
+---
+
+## Connect With Me
+
+📧 Email: savanmpatel2106@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/savan-patel-777aa3323/
+
+🌐 Portfolio:
+https://savan30-portfolio.netlify.app/
 
 ---
 
 <div align="center">
 
-### 🚀 “Code is not just my skill, it's how I solve problems and create impact.”
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Learning+🧠" />
+### "Turning ideas into intelligent solutions through AI and software engineering."
 
 </div>
