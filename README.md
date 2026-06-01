@@ -100,8 +100,7 @@ TenderNova is a full-stack AI-powered platform designed to simplify tender disco
 
 Python • FastAPI • JavaScript • HTML • CSS • REST APIs • AI Integration
 
-🌐 Live Demo:
-YOUR_LIVE_URL_HERE
+
 
 ---
 
