@@ -170,7 +170,7 @@ Full-stack healthcare management platform with authentication and patient record
 
 **Tech Stack:** FastAPI • Python • HTML • CSS • JavaScript
 
----
+--
 
 # 📊 GitHub Analytics
 
