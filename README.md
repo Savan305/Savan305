@@ -52,7 +52,7 @@
 - Backend Development
 - Generative AI
 
----
+--
 
 # ⚡ Tech Stack
 
